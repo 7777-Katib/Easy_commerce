@@ -1,0 +1,60 @@
+.container{
+    margin-bottom:100px;
+}
+
+.orange-bg{
+    background-color: #fde2dd;
+    border-radius:18px;
+}
+.carousel-item{
+    padding:40px 60px;
+}
+
+.price{
+    color:rgb(247, 41, 76);
+}
+
+.buy{
+    color:white;
+    background-color:rgb(250, 53, 86);
+    border-radius:8px;
+    padding:9px 25px;
+    cursor:pointer;
+}
+.buy:hover{
+    background-color: rgb(241, 12, 50);
+}
+
+.cat1, .cat2, .cat3{
+    padding:10px 30px;
+    border-radius:8px;
+}
+.cat1{
+    background-color: orange;
+    
+}
+
+.cat2{
+    background-color: rgb(241, 90, 236);
+   
+}
+.cat3{
+    background-color: #3f3ff3;
+    
+}
+
+.category h1{
+    color:white;
+
+}
+
+.category img{
+    width:100px;
+}
+
+h3{
+    margin-bottom:50px;
+}
+.containershoes img{
+    width:1000px;
+}
